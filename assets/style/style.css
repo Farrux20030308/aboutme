@@ -92,7 +92,7 @@ li {
 }
 
 .header__content-btn:hover {
-    background: green;
+    background: gray;
     color: white;
 }
 
